@@ -7,4 +7,4 @@ Please read through this page for some information regarding prerequisites. Then
 The only two things you need to complete the assignments is this github repository and a build.me account. Go to https://www.build.me and press the "Sign up" button. Enter your email address and complete the registration. You will receive an email to activate your account once you have registered. Activate your account and login to the tool.
 
 # Continue to the first assignment
-[Assignment 1](https://github.com/Innov8ion-developer/SAP_Build_Assignmentss/tree/1_Your_first_prototype)
+[Assignment 1](https://github.com/Innov8ion-developer/SAP_Build_Assignments/tree/1_Your_first_prototype)
