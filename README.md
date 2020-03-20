@@ -1,24 +1,8 @@
-# Assignment #1 - Your first prototype
-After you login to your build.me account, watch the intro video to get an understanding of the capabilities of the build tool. In the first
-assignment you will create a new build prototype based on an existing template. This will kickstart your prototype development.
+# Assignment #2 - Edit the template
+Intro
+#### Edit the template
+Edit your prototype
+![Edit template](https://github.com/iemkek/SAP_Build_Assignments/blob/master/img/editTheTemplate1.png)
 
-#### Create new project
-From the "Start from scratch" section, choose the "Create new project" button.
-
-![Create new project](https://github.com/iemkek/SAP_Build_Assignments/blob/master/img/yourFirstPrototype1.png)
-
-Give your project a meaningful name and description. Next, choose the "Start with template" option.
-
-![Start with template](https://github.com/iemkek/SAP_Build_Assignments/blob/master/img/yourFirstPrototype2.png)
-
-Now select the "Wizard" template to start your prototype with an existing template.
-
-![Wizard template](https://github.com/iemkek/SAP_Build_Assignments/blob/master/img/yourFirstPrototype3.png)
-
-#### Preview your prototype
-You can now already test your prototype. Since we started with a template, it is ready for you to take a first look. Do this by clicking the "Preview" button in the top right part of the screen. Try to navigate through your prototype. To go back to the build tool, press the "Back to page map" button, also in the top right part of the screen.
-
-![Preview prototype](https://github.com/iemkek/SAP_Build_Assignments/blob/master/img/yourFirstPrototype4.png)
-
-# Continue to assignment #2
-[Assignment 2](https://github.com/Innov8ion-developer/SAP_Build_Assignmentss/tree/2_Edit_the_template)
+# Continue to assignment #3
+[Assignment 3](https://github.com/Innov8ion-developer/SAP_Build_Assignmentss/tree/3_)
