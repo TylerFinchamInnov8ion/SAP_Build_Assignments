@@ -21,4 +21,4 @@ You can now already test your prototype. Since we started with a template, it is
 ![Preview prototype](https://github.com/iemkek/SAP_Build_Assignments/blob/master/img/yourFirstPrototype4.png)
 
 # Continue to assignment #2
-[Assignment 2](https://github.com/Innov8ion-developer/SAP_Build_Assignmentss/tree/2_Edit_the_template)
+[Assignment 2](https://github.com/Innov8ion-developer/SAP_Build_Assignments/tree/2_Edit_the_template)
